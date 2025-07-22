@@ -49,6 +49,8 @@ Our architecture is divided into a back-end and a front-end. The back-end handle
 ## Contributors
 
 - Zakaria A.
+- Gabriel M.
 - Yingwei T.
 - Brahim T.
-- Siyuan Z.
+
+The codebase is arranged with the help of Gabriel.
